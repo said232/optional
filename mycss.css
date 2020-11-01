@@ -1,0 +1,32 @@
+h1 {
+    color: #51e2f5f5;
+   background: linear-gradient(45deg,yellow,red,yellow);
+    border:12px solid #f5390aea;
+    padding: 5px;
+    border-radius: 50px;
+    text-align: center;
+  }
+  
+  p, h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  
+  img, button {
+    margin-left:50px;
+  }
+  #parag {
+ position: relative;
+   left:50px;
+  }
+  .btn{
+      width: 90px;
+      height: 40px;
+      color: #090a0af5;
+      background: linear-gradient(45deg,yellow,red,yellow);
+       padding: 5px;
+       border-radius: 50px;
+       text-align: center;
+      border-radius: 50px;
+      outline:none;
+  }
